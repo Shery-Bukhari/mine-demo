@@ -1,3 +1,3 @@
 # mine-demo
-This is my first repo
-Author - Shery
+This is my first repo.
+Author - Shery.
